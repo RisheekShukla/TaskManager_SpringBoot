@@ -10,6 +10,7 @@ This is the backend for the Task Manager application, built with Spring Boot. It
 ## Frontend Repository [Tasker-frontend](https://github.com/RisheekShukla/TaskManager_Angular)
 
 ## Features
+![image](https://github.com/user-attachments/assets/f41d1875-e69e-45a9-937b-bfda478290e5)
 
 - **Task Management**: Create, update, delete, and retrieve tasks.
 - **Authentication & Authorization**: Secure endpoints using JWT-based authentication.
