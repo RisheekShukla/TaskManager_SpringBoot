@@ -7,7 +7,7 @@ This is the backend for the Task Manager application, built with Spring Boot. It
 
 **Backend:** Java, Spring Boot, Spring Data JPA, MySQL, RESTful APIs, CORS Configuration
 
-## Frontend Repository [Tasker-frontend}(https://github.com/RisheekShukla/TaskManager_Angular)
+## Frontend Repository [Tasker-frontend](https://github.com/RisheekShukla/TaskManager_Angular)
 
 ## Features
 
