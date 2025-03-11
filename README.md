@@ -44,6 +44,9 @@ mvn spring-boot:run
 
 Contributions are always welcome!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=risheekshukla&label=Profile%20views&color=0e75b6&style=flat" alt="risheekshukla" /> </p>
+
+
 Feel free to contribute to the project by creating pull requests or reporting issues.
 
 
